@@ -60,7 +60,6 @@ end
 
     ```ruby
     require "logstash-fakes"
-    require "logstash/namespace"
     ```
 
 And then execute:
